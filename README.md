@@ -1,16 +1,76 @@
-## Hi there 👋
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C0FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Ayan+%F0%9F%91%8B;Data+Science+%26+ML+Enthusiast+%F0%9F%A4%96;Backend+Builder+%7C+AI+Explorer+%F0%9F%92%BB;Turning+Coffee+into+Code+Since+Day+1+%E2%98%95" alt="Typing SVG" />
+</p>
 
-<!--
-**Ayan9190/Ayan9190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🔍 **Problem Solver**: Turning coffee into code since *before it was cool*.
+- 🧩 **Tech Explorer**: Python, C, JavaScript, Flask, Django, and AI magic.
+- 📊 **Data Wrangler**: Passionate about making sense of messy data.
+- 🚀 **Learning Journey**: Advanced ML, NLP, and Data Engineering.
+- 🧠 Fun fact: My code works 60% of the time, every time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Arsenal
+
+**Languages & Frameworks**  
+`Python` • `C` • `JavaScript` • `Node.js` • `Flask` • `Django`
+
+**Data Science & ML**  
+`Pandas` • `Scikit-learn` • `LightGBM` • `RandomForest` • `NLP`
+
+**Tools & Platforms**  
+`Git` • `Docker` • `Streamlit` • `Maven` • `CI/CD`
+
+---
+
+## 📌 Current Projects
+
+- 📰 **Fake News Killer: AI vs. Misinformation** — Detecting fake news in real-time with AI.
+- ✈ **Flight Delay Prediction** — Predicting delays so you can spend less time in airport lounges.
+- 📈 **MarketPulse** — Portfolio insights powered by AI + market sentiment.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayandasgupta&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayandasgupta&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayandasgupta&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Let’s Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://YOUR-PORTFOLIO-LINK">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:ayan.dasgupta.cse26@heritageit.edu.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ayandasgupta&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+</p>
+
+---
+
+<p align="center">
+  ⚡ <i>"In a world full of bugs, be a feature."</i>
+</p>
+
