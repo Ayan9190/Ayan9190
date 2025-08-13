@@ -17,13 +17,13 @@
 ## 🛠 Tech Arsenal
 
 **Languages & Frameworks**  
-`Python` • `C` • `JavaScript` • `Node.js` • `Flask` • `Django`
+`Python` • `C` • `JavaScript` • `Node.js` • `Flask` • `Django` • `Java` • `SpringBoot` • `C++`
 
 **Data Science & ML**  
-`Pandas` • `Scikit-learn` • `LightGBM` • `RandomForest` • `NLP`
+`Pandas` • `Scikit-learn` • `NLP`
 
 **Tools & Platforms**  
-`Git` • `Docker` • `Streamlit` • `Maven` • `CI/CD`
+`Git` • `Docker` • `Streamlit` • `Maven` • `CI/CD` • `GitHub-Actions`
 
 ---
 
